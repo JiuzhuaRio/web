@@ -1,6 +1,8 @@
 ## Bootcamp Web 2019
 ## Day 2: ​Github​ for version tracking, collaboration and publishing.
-
+---
+* Google slides:
+* https://docs.google.com/presentation/d/1-BGhdvhrZASZ82XRKNOMdJdUO41f5dYmpZsRvxQKVb0/edit?usp=sharing
 ---
 #### Topics covered:
 * Introduce of basic github structure
